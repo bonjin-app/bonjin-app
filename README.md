@@ -1,4 +1,7 @@
-### Hi there 👋
+## GIGAS
+
+### My Blog
+* [Tistoty](https://gigas-blog.tistory.com)
 
 <!--
 **bonjin-app/bonjin-app** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
