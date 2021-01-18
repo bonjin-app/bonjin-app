@@ -2,5 +2,6 @@
 
 ## GIGAS
 
-### My Blog
+### My
+* https://bonjin.co.kr
 * https://gigas-blog.tistory.com
