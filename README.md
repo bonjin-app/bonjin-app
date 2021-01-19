@@ -8,4 +8,4 @@
 * https://github.com/bonjin-app
 
 ### 포트폴리오 개발.
-- Java(1.8), Spring Framwork(Boot 2), Data JPA, QueryDSL, Thymeleaf, HTML5/CSS3, JavaScript, MariaDB, Git, Nginx, Jenkins
+- Java(1.8), Spring Framwork(Boot 2), Data JPA, QueryDSL, MariaDB, Thymeleaf, HTML5/CSS3, JavaScript, Git, Nginx, Jenkins
