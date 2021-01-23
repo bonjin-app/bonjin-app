@@ -5,7 +5,7 @@
 * https://gigas-blog.tistory.com
 * https://github.com/bonjin-app
 
-### - github.io
-GitLab에서 넘어왔습니다.
-
-정리를 다시 시작합니다...
+### - Todo
+- Portfolio
+- GitLab데이터 정리 및 이관.
+- github.io 블로그 or 이력서
