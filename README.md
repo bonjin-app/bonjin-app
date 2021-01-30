@@ -1,10 +1,12 @@
 ## GIGAS
 
 ### - Channel
-* [https://idol.bonjin.co.kr](http://gigas.synology.me:9091)
 * [https://bonjin.co.kr](http://gigas.synology.me:9090)
 * https://gigas-blog.tistory.com
 * https://github.com/bonjin-app
+
+### - Side Project
+* [아이돌 관리자](http://gigas.synology.me:9091)
 
 ### - Todo
 - Portfolio
