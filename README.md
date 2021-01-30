@@ -1,7 +1,7 @@
 ## GIGAS
 
 ### - Channel
-* https://bonjin.co.kr
+* [https://bonjin.co.kr](http://gigas.synology.me:9090)
 * https://gigas-blog.tistory.com
 * https://github.com/bonjin-app
 
