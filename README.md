@@ -15,4 +15,4 @@
 - MSA
 - Project Multi Module
 - Vue SPA
-- Socket Chatting
+- Socket Chatting(Anonymous)
