@@ -16,3 +16,4 @@
 - Project Multi Module
 - Vue SPA
 - Socket Chatting(Anonymous)
+- Flutter
