@@ -19,7 +19,3 @@
 - Flutter
 - Docker
 - Jenkins
-
-### - Idia
-- White
-- Youtube
