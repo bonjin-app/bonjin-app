@@ -1,4 +1,4 @@
-## GIGAS
+## Hi, there.
 
 ### - Channel
 * https://gigas-blog.tistory.com
@@ -8,3 +8,4 @@
 * [Portfolio](http://gigas.synology.me:9090)
 * [Idol](http://gigas.synology.me:9091)
 * [Geniuschoi](http://gigas.synology.me:7070/geniuschoi)
+
