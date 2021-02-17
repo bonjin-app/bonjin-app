@@ -1,4 +1,4 @@
-## Hi, there.
+Hi, there.
 
 ### - Channel
 * https://gigas-blog.tistory.com
