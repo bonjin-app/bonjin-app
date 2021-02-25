@@ -11,3 +11,4 @@ Hi, there.
 
 ### - Infra
 * CI/CD
+* MQ
