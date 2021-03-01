@@ -10,4 +10,5 @@ Hi, there.
 * [Geniuschoi](http://gigas.synology.me:7070/geniuschoi)
 
 ### - Infra
-* CI/CD
+* CI/CD CodeDeploy, Jenkins, Travis
+* AWS EC2, S3, RDS
