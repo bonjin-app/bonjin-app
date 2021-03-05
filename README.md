@@ -14,6 +14,7 @@ Hi, there.
 * AWS EC2, S3, RDS
 
 ### - Todo
-* 알고리즘&코딩테스트 [프로그래머스](https://programmers.co.kr/)
+* BONJIN Project
 * Swift, Java
 * Flutter 2.0 (Dart)
+* 알고리즘&코딩테스트 [프로그래머스](https://programmers.co.kr/)
