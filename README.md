@@ -22,4 +22,5 @@ Hi, there.
 * 동빈나 유튜브
 * FastCampus 강의 완강 및 서비스 개발.
 * Stomp, Socket
+* Svelte, Vue
 * 컴활1급, 정보처리기사, SQLD 취득
