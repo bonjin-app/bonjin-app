@@ -24,3 +24,4 @@ Hi, there.
 * Stomp, Socket
 * Svelte, Vue2
 * 컴활1급, 정보처리기사, SQLD 취득
+* MSA
