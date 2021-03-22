@@ -12,16 +12,14 @@ Hi, there.
 ### - Infra
 * CI/CD CodeDeploy, Jenkins, Travis
 * AWS EC2, S3, RDS
+* MSA
 
 ### - Todo
 * 블로그 글 꾸준히 작성.
-* BONJIN Project, 도메인 연장, WebRTC
-* Swift(VIPER, MVVM, RxSwift), Java
-* Flutter 2.0 (Dart) Front Develop
-* 알고리즘&코딩테스트 [프로그래머스](https://programmers.co.kr/)
-* 동빈나 유튜브
 * FastCampus 강의 완강 및 서비스 개발.
-* Stomp, Socket
+* BONJIN Project
+* Swift(VIPER, MVVM, RxSwift), Java, Dart(Flutter 2)
+* 알고리즘&코딩테스트 [프로그래머스](https://programmers.co.kr/), 동빈나 유튜브
+* Stomp, Socket, WebRTC
 * Svelte, Vue2
 * 컴활1급, 정보처리기사, SQLD 취득
-* MSA
