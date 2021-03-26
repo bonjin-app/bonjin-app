@@ -23,4 +23,3 @@ Hi, there.
 * Stomp, Socket, WebRTC
 * Svelte, Vue2
 * 컴활1급, 정보처리기사, SQLD 취득
-* !! SK인터넷 브릿지모드 오류. Home 서버 오류 !!
