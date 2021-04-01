@@ -11,7 +11,7 @@ Hi, there.
 
 ### - Infra
 * CI/CD CodeDeploy, Jenkins, Travis
-* AWS EC2, S3, RDS
+* AWS EC2, S3, RDS, Naver Cloud
 * MSA
 
 ### - Todo
