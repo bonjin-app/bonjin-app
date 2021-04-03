@@ -13,6 +13,8 @@ Hi, there.
 * CI/CD CodeDeploy, Jenkins, Travis
 * AWS EC2, S3, RDS, Naver Cloud
 * MSA
+* Jira, Notion 협업툴 도입.
+* Slack 도입.
 
 ### - Todo
 * 블로그 글 꾸준히 작성.
