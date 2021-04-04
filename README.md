@@ -10,7 +10,7 @@ Hi, there.
 * [Geniuschoi](http://gigas.synology.me:7070/geniuschoi)
 
 ### - Infra
-* CI/CD CodeDeploy, Jenkins, Travis
+* CI/CD CodeDeploy, Jenkins > Travis
 * AWS EC2, S3, RDS, Naver Cloud
 * MSA
 * Jira, Notion 협업툴 도입.
