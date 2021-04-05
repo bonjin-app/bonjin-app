@@ -12,7 +12,7 @@ Hi, there.
 ### - Infra
 * CI/CD CodeDeploy, Jenkins > Travis
 * AWS EC2, S3, RDS, Naver Cloud
-* MSA
+* Docker, Spring Cloud,
 * Jira, Confluence, Notion 협업툴 도입.
 * Slack 도입.
 
