@@ -16,7 +16,7 @@ Hi, there.
 * Docker, Spring Cloud,
 * Jira, Confluence, Notion 협업툴 도입.
 * Slack 도입.
-* 로그
+* Log, Auth, Monitor
 
 ### - Todo
 * 블로그 글 꾸준히 작성.
