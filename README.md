@@ -14,7 +14,7 @@ Hi, there.
 * AWS EC2, S3, RDS, CodeDeploy
 * Naver Cloud
 * Docker, Spring Cloud,
-* Jira, Confluence, Notion 협업툴 도입.
+* Jira, Confluence, Notion, Flow
 * Slack 도입.
 * ELK(Elasticsearch Logstash Kibana) Stack, Metricbeat
 * Auth, Monitor
