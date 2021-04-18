@@ -15,7 +15,7 @@ Hi, there.
 * Naver Cloud
 * Docker, Spring Cloud,
 * Jira, Confluence, Notion, Flow
-* Slack 도입.
+* Slack
 * ELK(Elasticsearch Logstash Kibana) Stack, Metricbeat
 * Auth, Monitor
 
