@@ -17,7 +17,7 @@ Hi, there.
 * Jira, Confluence, Notion, Flow
 * Slack
 * ELK(Elasticsearch Logstash Kibana) Stack, Metricbeat, Beat
-* Auth, Monitor
+* Auth, Monitor, Management
 
 ### - Todo
 * 블로그 글 꾸준히 작성.
