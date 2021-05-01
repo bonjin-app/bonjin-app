@@ -3,6 +3,7 @@ Hi, there.
 ### - Channel
 * https://gigas-blog.tistory.com
 * https://github.com/bonjin-app
+* http://bonjin.co.kr
 
 ### - Side Project
 * [Portfolio](http://gigas.synology.me:9090)
