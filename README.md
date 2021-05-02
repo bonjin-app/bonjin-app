@@ -4,6 +4,7 @@ Hi, there.
 * https://gigas-blog.tistory.com
 * https://github.com/bonjin-app
 * http://bonjin.co.kr
+* http://gigas.site
 
 ### - Side Project
 * [Portfolio](http://gigas.synology.me:9090)
