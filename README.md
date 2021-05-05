@@ -31,4 +31,4 @@ Hi, there.
 * Stomp, Socket, WebRTC
 * Svelte, Vue2
 * Git
-* Java, 알고리즘 스터디
+* Algorithm
