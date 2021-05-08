@@ -30,5 +30,6 @@ Hi, there.
 * 알고리즘&코딩테스트 [프로그래머스](https://programmers.co.kr/), [Goormlabel](https://level.goorm.io), 동빈나 유튜브
 * Stomp, Socket, WebRTC
 * Svelte, Vue2
+* Firebase
 * Git, GitHub
 * Algorithm, 자료구조
