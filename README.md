@@ -32,5 +32,5 @@ Hi, there.
 * Stomp, Socket, WebRTC
 * Svelte, Vue2
 * Firebase
-* Git, GitHub
+* Git, GitHub, GitLab
 * Algorithm, 자료구조
