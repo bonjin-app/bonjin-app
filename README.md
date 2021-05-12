@@ -33,4 +33,4 @@ Hi, there.
 * Svelte, Vue2
 * Firebase
 * Git, GitHub, GitLab
-* Algorithm, 자료구조
+* Algorithm
