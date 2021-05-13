@@ -14,7 +14,7 @@ Hi, there.
 ### - Infra
 * CI/CD , Jenkins, Travis
 * AWS EC2, S3, RDS, CodeDeploy
-* Naver Cloud
+* Naver, Google Cloud
 * Docker, Spring Cloud,
 * Jira, Confluence, Notion, Flow
 * Slack
