@@ -15,7 +15,7 @@ Hi, there.
 * CI/CD , Jenkins, Travis
 * AWS EC2, S3, RDS, CodeDeploy
 * Naver, Google Cloud
-* Docker, Spring Cloud,
+* MAS, Docker, Spring Cloud,
 * Jira, Confluence, Notion, Flow
 * Slack
 * ELK(Elasticsearch Logstash Kibana) Stack, Metricbeat, Beat
