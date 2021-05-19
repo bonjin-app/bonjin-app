@@ -35,3 +35,4 @@ Hi, there.
 * Git, GitHub, GitLab
 * Algorithm
 * 회사 서비스
+* GitLab 사이드 프로젝트 GitHub로 옮기기
