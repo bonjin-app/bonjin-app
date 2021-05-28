@@ -34,4 +34,3 @@ Hi, there.
 * Firebase
 * Git, GitHub, GitLab
 * Algorithm
-* GitLab 사이드 프로젝트 GitHub로 옮기기
