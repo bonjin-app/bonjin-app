@@ -22,7 +22,7 @@ Hi, there.
 * Auth, Monitor, Management
 
 ### - Todo
-* 블로그 글 꾸준히 작성.
+* 블로그 글 꾸준히 작성
 * 학점은행제 컴퓨터공학
 * 컴활1급, 정보처리기사, SQLD 취득
 * FastCampus, Inflearn
