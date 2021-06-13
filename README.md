@@ -33,3 +33,4 @@ Hi, there.
 * Node, Svelte, Vue2
 * Git, GitHub, GitLab
 * Algorithm
+* DNS Server Setting
