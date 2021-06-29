@@ -1,15 +1,23 @@
-Hi, there.
+### Hi there, I'm GIGAS
 
-### - Channel
-* https://gigas-blog.tistory.com
-* https://github.com/bonjin-app
-* https://bonjin.co.kr (정비중)
-* https://gigas.site (정비중)
+### Connect with me:
+[blog]: https://gigas-blog.tistory.com
+[GitHub]: https://github.com/bonjin-app
+[website]: https://bonjin.co.kr (정비중)
+[website]: https://gigas.site (정비중)
 
-### - Side Project
-* [Portfolio](http://gigas.synology.me:9090)
-* [Idol](http://gigas.synology.me:9091) admin/1234
-* [Geniuschoi](http://gigas.synology.me:7070/geniuschoi)
+<br/>
+
+### Side Project
+[Portfolio]: http://gigas.synology.me:9090
+[Idol]: http://gigas.synology.me:9091 admin/1234
+[Geniuschoi]: http://gigas.synology.me:7070/geniuschoi
+
+### Languages and Tools:
+
+### Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### - Infra
 * CI/CD , Jenkins, Travis
