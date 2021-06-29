@@ -6,8 +6,6 @@
 [website]: https://bonjin.co.kr (정비중)
 [website]: https://gigas.site (정비중)
 
-<br/>
-
 ### Side Project
 [Portfolio]: http://gigas.synology.me:9090
 [Idol]: http://gigas.synology.me:9091 admin/1234
