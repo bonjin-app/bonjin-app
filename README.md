@@ -16,7 +16,7 @@
 * AWS EC2, S3, RDS, CodeDeploy
 * Naver, Google Cloud, Firebase
 * MSA, Docker, Spring Cloud,
-* Jira, Confluence, Notion, Flow
+* Jira sofrware, Confluence, Notion, Flow
 * Slack
 * ELK(Elasticsearch Logstash Kibana) Stack, Metricbeat, Beat
 * Auth, Monitor, Management
