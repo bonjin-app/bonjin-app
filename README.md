@@ -14,10 +14,10 @@
 ### - Infra
 * CI/CD , Jenkins, Travis
 * AWS EC2, S3, RDS, CodeDeploy
-* Naver, Google Cloud, Firebase
+* Naver Cloud, Google Cloud, Firebase
 * MSA, Docker, Spring Cloud,
 * Jira sofrware, Confluence, Notion, Flow
-* Slack
+* Slack, Zeplin
 * ELK(Elasticsearch Logstash Kibana) Stack, Metricbeat, Beat
 * Auth, Monitor, Management
 
