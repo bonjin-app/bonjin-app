@@ -22,7 +22,7 @@
 * Auth, Monitor, Management
 
 ### - Todo
-* 컴활1급, 정보처리기사, SQLD 취득
+* 컴활1급, 정보처리기사, SQLD 취득, AWS
 * FastCampus, Inflearn
 * BONJIN Project, Spring Study
 * Swift(VIPER, MVVM, RxSwift[바로가기](http://reactivex.io/), Combine), Java, Dart(Flutter 2), Kotlin
