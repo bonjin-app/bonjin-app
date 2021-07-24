@@ -13,7 +13,7 @@
 
 ### - Infra
 * CI/CD , Jenkins, Travis, Circle
-* AWS EC2, S3, RDS, CodeDeploy
+* AWS EC2, S3, RDS, CodeDeploy, AppCenter(CodePush)
 * Naver Cloud, Google Cloud, Firebase
 * MSA, Docker, Spring Cloud,
 * Jira sofrware, Confluence, Notion, Flow
