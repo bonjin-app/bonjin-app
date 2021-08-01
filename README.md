@@ -12,7 +12,7 @@
 * [Geniuschoi](http://gigas.synology.me:7070/geniuschoi)
 
 ### - Infra
-* CI/CD , Jenkins, Travis, Circle
+* CI/CD , Jenkins, Travis
 * AWS EC2, S3, RDS, CodeDeploy, AppCenter(CodePush)
 * Naver Cloud, Google Cloud, Firebase
 * MSA, Docker, Spring Cloud,
