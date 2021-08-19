@@ -30,5 +30,5 @@
 * Stomp, Socket, WebRTC
 * Node, Svelte, Vue, React, Next, Nest, React Native, Flutter
 * Git, GitHub, GitLab, GitFlow
-* Algorithm
+* Algorithm 공부.
 * React & MatrialUI
