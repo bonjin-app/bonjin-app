@@ -1,4 +1,4 @@
-### Hi there, I'm BONJIN Team GIGAS Captain.
+### Hi there, I'm BONJIN Team Captain GIGAS.
 
 ### - Channel
 * https://gigas-blog.tistory.com
