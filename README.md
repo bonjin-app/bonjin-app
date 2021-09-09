@@ -31,5 +31,5 @@
 * Node, Svelte, Vue, React, Next, Nest, React Native, Flutter
 * Git, GitHub, GitLab, GitFlow
 * Algorithm 공부.
-* React Native Module
+* React Native Module, Bridge
 * TDD, DDD
