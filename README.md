@@ -30,6 +30,6 @@
 * Stomp, Socket, WebRTC
 * Node, Svelte, Vue, React, Next, Nest, React Native, Flutter
 * Git, GitHub, GitLab, GitFlow
-* Algorithm 공부.
+* Algorithm
 * React Native Module, Javascript Bridge, Podspec
 * TDD, DDD
