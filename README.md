@@ -32,4 +32,3 @@
 * Git, GitHub, GitLab, GitFlow, GitAction
 * Algorithm
 * React Native Module, Javascript Bridge, Podspec
-* TDD, DDD
