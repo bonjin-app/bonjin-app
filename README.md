@@ -31,4 +31,4 @@
 * Node, Svelte, Vue, React
 * Git, GitHub, GitLab, GitFlow, GitAction
 * Algorithm
-* React Native, React Native Module, Javascript Bridge, Podspec
+* React Native, React Native Module, Javascript Bridge, CodePush
