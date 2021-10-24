@@ -31,4 +31,4 @@
 * Git, GitHub, GitLab, GitFlow, GitAction
 * Algorithm
 * Typescript, React Native Module, CodePush
-* RN BottomSheet, Dialog, Accessory View
+* RN BottomSheet, Dialog, Accessory View, Navigation
