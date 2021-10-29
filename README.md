@@ -1,5 +1,7 @@
 ### Hi there, I'm BONJIN Team. GIGAS.
 
+이사 완료.
+
 ### - Channel
 * https://gigas-blog.tistory.com
 * https://github.com/bonjin-app
