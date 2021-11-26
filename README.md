@@ -30,5 +30,5 @@
 * Node, Svelte, Vue, React, React Native
 * Git, GitHub, GitLab, GitFlow, GitAction
 * Algorithm
-* Typescript, React Native Module, CodePush
+* Typescript, React Native Module, CodePush, FCM
 * RN BottomSheet, Dialog, Accessory View, Navigation v6, Toast, Custom Modal 
