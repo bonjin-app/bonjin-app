@@ -31,4 +31,4 @@
 * Git, GitHub, GitLab, GitFlow, GitAction
 * Algorithm
 * Typescript, React Native Module, CodePush, FCM
-* RN BottomSheet, Dialog, Accessory View, Navigation v6, Custom Modal, Loading
+* RN BottomSheet, Dialog, Accessory View, Navigation v6, Custom Modal, Loading, Picker
