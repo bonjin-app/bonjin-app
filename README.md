@@ -4,7 +4,7 @@
 * https://gigas-blog.tistory.com
 * https://github.com/bonjin-app
 * https://bonjin.co.kr (정비중)
-* https://gigas.site (정비중)
+* https://gigas.site (만료예정)
 
 ### - Side Project
 * [Portfolio](http://gigas.synology.me:9090)
