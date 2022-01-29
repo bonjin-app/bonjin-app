@@ -30,7 +30,6 @@
 * Node, Svelte, Vue, React, React Native
 * Git, GitHub, GitLab, GitFlow, GitAction
 * Algorithm,
-* Flutter
 * Typescript, React Native Module, CodePush, FCM
 * BottomSheet, Dialog, Accessory View, Navigation v6, Custom Modal, Loading, Hook, State, Redux, MobX, Context API
-* Fluttet Window, Mac Application
+* Flutter Window, Mac Application
