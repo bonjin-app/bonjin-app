@@ -32,4 +32,4 @@
 * Algorithm,
 * Typescript, React Native Module, CodePush, FCM
 * BottomSheet, Dialog, Accessory View, Navigation v6, Custom Modal, Loading, Hook, State, Redux, MobX, Context API
-* Flutter Window, Mac Application, ChatBot, nTree
+* Flutter Mobile, Window, Mac Application, ChatBot, nTree
