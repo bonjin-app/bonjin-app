@@ -8,7 +8,7 @@
 ### - Side Project
 * [Portfolio](http://gigas.synology.me:9090)
 * [Idol](http://gigas.synology.me:9091) admin/1234
-* [Geniuschoi](http://gigas.synology.me:7070/geniuschoi)
+* [Geniuschoi](http://bonjin.co.kr/portfolio/geniuschoi)
 
 ### - Infra
 * CI/CD , Jenkins, Travis
