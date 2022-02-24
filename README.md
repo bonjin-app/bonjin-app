@@ -6,8 +6,8 @@
 * https://bonjin.co.kr (정비중)
 
 ### - Side Project
-* [Portfolio](http://gigas.synology.me:9090)
-* [Idol](http://gigas.synology.me:9091) admin/1234
+* [Portfolio](http://bonjin.co.kr:9090)
+* [Idol](http://bonjin.co.kr:9091) admin/1234
 * [Geniuschoi](http://bonjin.co.kr/portfolio/geniuschoi)
 
 ### - Infra
