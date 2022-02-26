@@ -28,7 +28,7 @@
 * 알고리즘&코딩테스트 [프로그래머스](https://programmers.co.kr/), [Goormlabel](https://level.goorm.io), 동빈나 유튜브
 * Stomp, Socket, WebRTC, 
 * Node, Svelte, Vue, React, React Native
-* Git, GitHub, GitLab, GitFlow, GitAction
+* Git, GitHub, GitLab, GitFlow, GitAction, Pages
 * Algorithm,
 * Typescript, React Native Module, CodePush, FCM
 * BottomSheet, Dialog, Accessory View, Navigation v6, Custom Modal, Loading, Hook, State, Redux, MobX, Context API
