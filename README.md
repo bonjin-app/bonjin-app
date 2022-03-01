@@ -19,7 +19,7 @@
 * Slack, Zeplin
 * ELK(Elasticsearch Logstash Kibana) Stack, Metricbeat, Beat
 * Auth, Monitor, Management
-* AppsFlyer
+* AppsFlyer, FCM
 
 ### - Todo
 * FastCampus, Inflearn
