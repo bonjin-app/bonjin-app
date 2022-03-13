@@ -23,10 +23,10 @@
 
 ### - Todo
 * FastCampus, Inflearn
-* BONJIN Project, Spring Study
+* BONJIN Project, Spring Study, React Study
 * Swift(VIPER, MVVM, RxSwift[바로가기](http://reactivex.io/), CocoaPods, Combine), Java, Kotlin
 * 알고리즘&코딩테스트 [프로그래머스](https://programmers.co.kr/), [Goormlabel](https://level.goorm.io), 동빈나 유튜브
-* Stomp, Socket, WebRTC, 
+* Stomp, Socket, WebRTC
 * Node, Svelte, Vue, React, React Native
 * Git, GitHub, GitLab, GitFlow, GitAction, Pages
 * Algorithm,
