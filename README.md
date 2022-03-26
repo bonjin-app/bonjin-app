@@ -32,4 +32,4 @@
 * TypeScript, React Native Module
 * BottomSheet, Dialog, Accessory View, Navigation v6, Custom Modal, Loading, Hook, State, Redux, RTK, MobX, Context API
 * Flutter Web, Mobile, Window, Mac, Linux Application, ChatBot, GetX, RxDart, BLOC, Provider
-* Platform Service, O2O
+* Platform, O2O
