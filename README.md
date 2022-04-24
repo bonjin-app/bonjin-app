@@ -33,4 +33,4 @@
 * TypeScript, React Native Module
 * BottomSheet, Dialog, Accessory View, Navigation v6, Custom Modal, Loading, Hook, State, Redux, RTK, MobX, Context API
 * Flutter Web, Mobile, Window, Mac, Linux Application, ChatBot, GetX, RxDart, BLOC, Provider
-* Platform, O2O, 커뮤니티, 성공을 위한 프로젝트, 수익화 주제 발표, richText, Editor, bio
+* Platform, O2O, 커뮤니티, 성공을 위한 프로젝트, 수익화 주제 발표, richText, Editor, bio metric
