@@ -33,3 +33,7 @@
 * TypeScript, React Native Module
 * BottomSheet, Dialog, Accessory View, Navigation v6, Custom Modal, Loading, Hook, State, Redux, RTK, MobX, Context API
 * Flutter Web, Mobile, Window, Mac, Linux Application, ChatBot, GetX, RxDart, BLOC, Provider
+
+### - 스타트업
+- SparkLabs
+Demoday 18
