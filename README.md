@@ -37,3 +37,5 @@
 ### - 스타트업
 - SparkLabs
 Demoday 18
+
+사업수행계획서 작성
