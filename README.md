@@ -38,6 +38,5 @@
 - SparkLabs
 Demoday 18
 
-사업수행계획서 작성
-Conf, 
-빌티, 찾ㄷㄹ, 365
+Flutter vs React Native
+
