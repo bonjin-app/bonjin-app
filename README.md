@@ -23,14 +23,10 @@
 * AppsFlyer, FCM
 
 ### - Todo
-* FastCampus, Inflearn, book
-* BONJIN Project, Spring Study, React Study
 * 알고리즘&코딩테스트 [프로그래머스](https://programmers.co.kr/), [Goormlabel](https://level.goorm.io), 동빈나 유튜브
 * Stomp, Socket, WebRTC
-* Node, Svelte, Vue, React, React Native
 * Git, GitHub, GitLab, GitFlow, GitAction, Pages
 * Algorithm
-* TypeScript, React Native Module
 * BottomSheet, Dialog, Accessory View, Navigation v6, Custom Modal, Loading, Hook, State, Redux, RTK, MobX, Context API
 * Flutter Web, Mobile, Window, Mac, Linux Application, ChatBot, GetX, RxDart, BLOC, Provider
 
@@ -38,7 +34,6 @@
 - SparkLabs
 Demoday 18
 
-Flutter vs React Native
 Charts, Trade, Chatting
 
-Flutter 기반 서비스
+Flutter 채택
