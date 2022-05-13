@@ -35,6 +35,4 @@
 - SparkLabs
 Demoday 18
 
-Charts, Trade, Chatting
-
-Flutter 채택
+Charts, Trade, Chatting, Flutter 3.0
