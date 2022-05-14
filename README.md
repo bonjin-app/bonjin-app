@@ -35,4 +35,4 @@
 - SparkLabs
 Demoday 18
 
-Charts, Trade, Chatting, Flutter 3.0
+Charts, Trade, Chatting, Flutter 3.0, Server Infra
