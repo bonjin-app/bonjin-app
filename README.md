@@ -35,4 +35,4 @@
 - SparkLabs
 Demoday 18
 
-Push Service, Chatting, Flutter 3.0, Server Infra, 
+Push Service, Chatting, Flutter 3.0, Server Infra, HTML Editor
