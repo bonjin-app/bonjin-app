@@ -20,7 +20,7 @@
 * Slack, Zeplin
 * ELK(Elasticsearch Logstash Kibana) Stack, Metricbeat, Beat
 * Auth, Monitor, Management
-* AppsFlyer, FCM
+* AppsFlyer, GA
 
 ### - Todo
 * 알고리즘&코딩테스트 [프로그래머스](https://programmers.co.kr/), [Goormlabel](https://level.goorm.io), 동빈나 유튜브
