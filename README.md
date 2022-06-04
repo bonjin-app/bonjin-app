@@ -29,10 +29,10 @@
 * Algorithm
 * BottomSheet, Dialog, Accessory View, Navigation v6, Custom Modal, Loading, Hook, State, Redux, RTK, MobX, Context API
 * Flutter Web, Mobile, Window, Mac, Linux Application, ChatBot, GetX, RxDart, BLOC, Provider
-* 5.10 1H, 5.31
+* 5.10 1H, 5.31, 6.3😎
 
 ### - 스타트업
 - SparkLabs
 Demoday 18
 
-Push Service, Chatting, Flutter 3.0, Server Infra, HTML Editor, Firebase, SSO
+Push Service, Chatting, Flutter 3.0, Server Infra, HTML Editor, Firebase
