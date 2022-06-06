@@ -14,13 +14,12 @@
 ### - Infra
 * CI/CD , Jenkins, Travis
 * AWS EC2, S3, RDS, CodeDeploy, AppCenter(CodePush)
-* Naver Cloud, Google Cloud, Firebase
+* Naver Cloud, Google Cloud, Firebase, AppsFlyer
 * MSA, Docker, Spring Cloud, MultiModule
 * Jira sofrware, Confluence, Notion, Flow
 * Slack, Zeplin
 * ELK(Elasticsearch Logstash Kibana) Stack, Metricbeat, Beat
 * Auth, Monitor, Management
-* AppsFlyer, GA
 
 ### - Todo
 * 알고리즘&코딩테스트 [프로그래머스](https://programmers.co.kr/), [Goormlabel](https://level.goorm.io), 동빈나 유튜브
