@@ -28,8 +28,6 @@
 * Algorithm
 * BottomSheet, Dialog, Accessory View, Navigation v6, Custom Modal, Loading, Hook, State, Redux, RTK, MobX, Context API
 * Flutter Web, Mobile, Window, Mac, Linux Application, ChatBot, GetX, RxDart, BLOC, Provider
-* 5.31, 6.2, 6.3😎
-* 5.10 1, 6.8 2-37
 
 ### - 스타트업
 - SparkLabs
