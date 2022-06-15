@@ -33,4 +33,4 @@
 - SparkLabs
 Demoday 18
 
-Chatting, Flutter 3.1, Server Infra, HTML Editor, Firebase, AppsFlyer
+1:1 Chatting, Flutter 3.1, Server Infra, HTML Editor, Firebase, AppsFlyer
