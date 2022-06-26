@@ -33,4 +33,5 @@
 - SparkLabs
 Demoday 18
 
-Stomp, Flutter 3.0.2, Server Infra, HTML Editor, Firebase, AppsFlyer, Fastlane, Jenkins
+- Backoffice
+Stomp, Flutter 3.0.2, Server Infra, HTML Editor, Firebase, AppsFlyer, Fastlane, Jenkins, 
