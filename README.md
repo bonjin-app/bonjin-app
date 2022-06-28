@@ -34,7 +34,7 @@
 Demoday 18
 
 - Infra
-Jenkins, Fastlane, AppsFlyer, Firebase
+Jenkins, Fastlane, AppsFlyer, Firebase, ELK
 
 - Backoffice
 Flutter, HTML Editor
