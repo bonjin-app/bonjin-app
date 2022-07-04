@@ -43,4 +43,4 @@ Flutter, HTML Editor, FCM
 Spring Framework, Stomp, 
 
 - Front
-Flutter, HTML Editor
+Flutter, HTML Editor, Stomp
