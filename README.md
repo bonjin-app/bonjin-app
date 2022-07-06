@@ -37,7 +37,7 @@ Demoday 18
 Jenkins, Fastlane, AppsFlyer, Firebase, ELK
 
 - Backoffice
-Flutter, HTML Editor, FCM
+Flutter, HTML Editor, Push
 
 - Server
 Spring Framework, Stomp, 
