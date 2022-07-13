@@ -43,4 +43,4 @@ Flutter, HTML Editor, Notification
 Spring Framework, Stomp
 
 - Front
-Flutter, HTML Editor, Stomp Chat
+Flutter, HTML Editor, Stomp Chatting
