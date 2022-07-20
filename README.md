@@ -40,7 +40,7 @@ Jenkins, Fastlane, AppsFlyer, Firebase, ELK Stack
 Flutter, HTML Editor, Notification
 
 - Server
-Spring Framework, Stomp, RESTful
+Spring Framework, Stomp, RESTful API
 
 - Front
 Flutter, HTML Editor, Stomp Chatting
