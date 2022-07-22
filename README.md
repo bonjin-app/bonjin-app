@@ -30,17 +30,17 @@
 * Flutter Web, Mobile, Window, Mac, Linux Application, ChatBot, GetX, RxDart, BLOC, Provider
 
 ### - 스타트업
-- SparkLabs
+* SparkLabs
 Demoday 18
 
-- Infra
+* Infra
 Jenkins, Fastlane, AppsFlyer, Firebase, ELK Stack
 
-- Backoffice
+* Backoffice
 Flutter, HTML Editor, Notification
 
-- Server
+* Server
 Spring Framework, Stomp, RESTful API
 
-- Front
+*Front
 Flutter, HTML Editor, Stomp Chatting
