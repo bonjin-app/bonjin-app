@@ -42,5 +42,5 @@ Flutter, HTML Editor, Notification
 * Server
 Spring Framework, Stomp, RESTful API
 
-*Front
+* Front
 Flutter, HTML Editor, Stomp Chatting
