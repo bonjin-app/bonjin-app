@@ -15,7 +15,7 @@
 * CI/CD , Jenkins, Travis
 * AWS EC2, S3, RDS, CodeDeploy, AppCenter(CodePush)
 * Naver Cloud, Google Cloud, Firebase, AppsFlyer
-* MSA, Docker, Spring Cloud, MultiModule
+* MSA, Docker, Spring Cloud, MultiModules
 * Jira sofrware, Confluence, Notion, Flow
 * Slack, Zeplin
 * ELK(Elasticsearch Logstash Kibana) Stack, Metricbeat, Beat
