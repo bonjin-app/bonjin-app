@@ -12,7 +12,7 @@
 * [Geniuschoi](http://bonjin.co.kr/portfolio/geniuschoi)
 
 ### - Infra
-* CI/CD , Jenkins, Travis
+* CI/CD , Jenkins, Travis, Fastlane
 * AWS EC2, S3, RDS, CodeDeploy, AppCenter(CodePush)
 * Naver Cloud, Google Cloud, Firebase, AppsFlyer
 * MSA, Docker, Spring Cloud, MultiModules
