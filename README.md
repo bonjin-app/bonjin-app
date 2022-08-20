@@ -27,7 +27,7 @@
 * Git, GitHub, GitLab, GitFlow, GitAction, Pages
 * Algorithm
 * BottomSheet, Dialog, Accessory View, Navigation v6, Custom Modal, Loading, Hook, State, Redux, RTK, MobX, Context API
-* Flutter Web, Mobile, Window, Mac, Linux Application, ChatBot, GetX, RxDart, BLOC, Provider
+* Flutter Web, Mobile, Window, Mac, Linux Application, ChatBot, GetX, RxDart, BLOC, Provider, Riverpod
 
 ### - 스타트업
 * SparkLabs
