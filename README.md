@@ -43,4 +43,4 @@ Flutter, HTML Editor, Notification
 Spring Framework, Stomp, RESTful API
 
 * Front
-Flutter 3, Rich Editor, Stomp RESTful, Fastlane, Firebase
+Flutter 3, Rich Text, Stomp RESTful, Fastlane, Firebase, 
