@@ -43,4 +43,6 @@ Flutter, HTML Editor, Notification
 Spring Framework, Stomp, RESTful API
 
 * Front
-Flutter 3, Rich Text, Stomp RESTful, Fastlane, Firebase, 렌더링 속도
+Flutter 3, Rich Text, Stomp RESTful, Fastlane, Firebase
+
+버벅거림, 렌더링 
