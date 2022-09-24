@@ -45,4 +45,4 @@ Spring Framework, Stomp, RESTful API
 * Front
 Flutter 3, Rich Text, Stomp RESTful, Fastlane, Firebase
 
-버벅거림, 렌더링, Riverpod, Navigator, GoRouter, Dio
+버벅거림, 렌더링, Riverpod, Navigator, GoRouter, Dio, Retrofit
