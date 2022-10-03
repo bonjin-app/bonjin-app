@@ -37,7 +37,7 @@ Demoday 18
 Jenkins, Fastlane, AppsFlyer, Firebase, ELK Stack
 
 * Backoffice
-Flutter, HTML Editor, Notification
+Flutter or React, HTML Editor, Notification
 
 * Server
 Spring Framework, Stomp, RESTful API
