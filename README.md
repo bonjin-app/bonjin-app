@@ -45,4 +45,4 @@ Spring Framework, Stomp, RESTful API
 * Front
 Flutter 3, Rich Text, Stomp RESTful, Fastlane, Firebase
 
-Riverpod, Navigator 2.0 GoRouter, Dio, Retrofit, JsonSerialize, To do
+Riverpod, Navigator 2.0 GoRouter, Dio
