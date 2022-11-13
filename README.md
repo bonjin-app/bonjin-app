@@ -46,4 +46,4 @@ Spring Framework, Stomp, RESTful API
 Flutter 3, Rich Text, Stomp RESTful, Fastlane, Firebase
 
 Riverpod, Navigator 2.0 GoRouter, Dio & Interceptor, Animation
-Backoffice
+Backoffice React
