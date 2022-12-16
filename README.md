@@ -43,7 +43,7 @@ Flutter or React, HTML Editor, Notification
 Spring Framework, Stomp, RESTful API
 
 * Front
-Flutter 3, Rich Text, Stomp RESTful, Fastlane, Firebase, GA, GC
+Flutter 3, Toast Editor, Stomp, Fastlane, Firebase, GA, GC
 
 Riverpod 2.0, Navigator 2.0 GoRouter 5.x, Dio & Interceptor, Animation, 
 Backoffice React Web
