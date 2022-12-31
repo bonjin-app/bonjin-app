@@ -45,5 +45,5 @@ Spring Framework, Stomp, RESTful API
 * Front
 Flutter 3, Toast Editor, Stomp, Fastlane, Firebase, GA, GC
 
-Riverpod 2.0, Navigator 2.0 GoRouter 6.x, Dio & Interceptor, Animation, Shimmer
+Riverpod 2.0, Navigator 2.0 GoRouter 6.x, Dio & Interceptor, Animation, Shimmer, isolate
 Backoffice React Web
