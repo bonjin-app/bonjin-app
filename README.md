@@ -46,5 +46,5 @@ Spring Framework, Stomp, RESTful API
 Flutter 3, Toast Editor, Stomp, Fastlane, Firebase, GA, GC
 
 Client - Riverpod 2.x, GoRouter 6.x, Dio & Interceptor, Animation, Shimmer, isolate
-Backoffice - React Web
-LandingPage - html 
+Backoffice - React
+LandingPage - html, css, javascript
