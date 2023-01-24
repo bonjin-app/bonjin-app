@@ -30,9 +30,6 @@
 * Flutter Web, Mobile, Window, Mac, Linux Application, ChatBot, GetX, RxDart, BLOC, Provider, Riverpod
 
 ### - 스타트업
-* SparkLabs
-Demoday 18
-
 * Infra
 Jenkins, Fastlane, AppsFlyer, Firebase, ELK Stack
 
