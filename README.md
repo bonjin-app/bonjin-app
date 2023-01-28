@@ -39,9 +39,9 @@ Flutter or React, HTML Editor, Notification
 * Server
 Spring Framework, Stomp, RESTful API
 
-* Front
-Flutter 3, Toast Editor, Stomp, Fastlane, Firebase, GA, GC
+* 
+Toast Editor, Stomp, Fastlane, Firebase, GA, GC
 
-Client - Riverpod 2.x, GoRouter 6.x, Dio & Interceptor, Animation, Shimmer, isolate
+AppClient - Flutter, Riverpod 2.x, GoRouter 6.x, Dio & Interceptor, Animation, Shimmer, isolate
 Backoffice - React
 LandingPage - html, css, javascript
