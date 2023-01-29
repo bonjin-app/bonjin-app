@@ -44,4 +44,4 @@ Toast Editor, Stomp, Fastlane, Firebase, GA, GC
 
 AppClient - Flutter, Riverpod 2.x, GoRouter 6.x, Dio & Interceptor, Animation, Shimmer, isolate
 Backoffice - React
-LandingPage - html, css, javascript...
+LandingPage - html, css, javascript
