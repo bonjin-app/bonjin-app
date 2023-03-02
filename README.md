@@ -32,13 +32,10 @@
 ### - 스타트업
 * Infra
 Jenkins, Fastlane, AppsFlyer, Firebase, ELK Stack
-
 * Backoffice
 Flutter or React, HTML Editor, Notification
-
 * Server
 Spring Framework, Stomp, RESTful API
-
 * 
 Toast Editor, Stomp, Fastlane, Firebase, GA, GC
 
