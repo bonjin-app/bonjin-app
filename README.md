@@ -39,7 +39,7 @@ Spring Framework, Stomp, RESTful API
 * 
 Toast Editor, Stomp, Fastlane, Firebase, GA, GC
 
-AppClient - Flutter, Riverpod 2.x, GoRouter 6.x, Dio & Interceptor, Stomp Client, RxDart
+AppClient - Flutter, Riverpod 2.x, GoRouter 6.x, Dio & Interceptor, Stomp Client, RxDart, Firebase
 AppServer - Nginx, Docker, SpringBoot
 Backoffice - React, SpringBoot 
 LandingPage - html, css, javascript
