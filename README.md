@@ -31,7 +31,7 @@
 
 ### - 스타트업
 * Infra
-Jenkins, Fastlane, AppsFlyer, Firebase, ELK Stack
+Jenkins, Docker, Fastlane, AppsFlyer, Firebase, ELK Stack
 * Backoffice
 Flutter or React, HTML Editor, Notification
 * Server
