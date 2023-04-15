@@ -36,8 +36,6 @@ Jenkins, Docker, Fastlane, Firebase, ELK Stack
 Flutter or React, HTML Editor, Notification
 * Server
 Spring Framework, Stomp, RESTful API
-* 
-Toast Editor, Stomp, Fastlane, Firebase, GA, GC
 
 AppClient - Flutter 3.7, Riverpod 2.x, GoRouter 6.x, Dio, Stomp, RxDart, Firebase
 AppServer - SpringBoot
