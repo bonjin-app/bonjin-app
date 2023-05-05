@@ -42,4 +42,4 @@ AppServer - SpringBoot
 Backoffice - React, SpringBoot 
 LandingPage - html, css, javascript
 
-Present Labs
+GiftLabs
