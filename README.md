@@ -42,4 +42,4 @@ AppServer - SpringBoot
 Backoffice - React, SpringBoot 
 LandingPage - html, css, javascript
 
-GiftLabs - React, React Router, Recoil
+GiftLabsBiz - React, React Router, Recoil
