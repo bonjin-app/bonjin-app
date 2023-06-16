@@ -17,7 +17,7 @@
 * Naver Cloud, Google Cloud, Firebase, AppsFlyer
 * MSA, Docker, Spring Cloud, MultiModules
 * Jira sofrware, Confluence, Notion, Flow
-* Slack, Zeplin
+* Slack, Zeplin, Figma
 * ELK(Elasticsearch Logstash Kibana) Stack, Metricbeat, Beat
 * Auth, Monitor, Management
 
