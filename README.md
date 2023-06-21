@@ -37,7 +37,7 @@ Flutter or React, HTML Editor, Notification
 * Server
 Spring Framework, Stomp, RESTful API
 
-AppClient - Flutter 3.10, Riverpod 2.x, GoRouter 6.x, Dio, Stomp, RxDart, Firebase
+AppClient - Flutter 3.10, Riverpod 2.x, GoRouter 6.x, Dio, Stomp Client RxDart, Firebase
 AppServer - SpringBoot
 Backoffice - React, SpringBoot 
 LandingPage - html, css, javascript
