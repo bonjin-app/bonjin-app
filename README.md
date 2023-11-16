@@ -8,10 +8,11 @@
   DS923+로 이전중...
 
 ### - Side Project
-* [Portfolio](http://bonjin.co.kr:9090)
-* [Idol](http://bonjin.co.kr:9091) admin/1234
-* [Geniuschoi](http://bonjin.co.kr/portfolio/geniuschoi)
-* [Cartonization] (http://bonjin.co.kr/bonjin/cartoonization)
+* [Portfolio](http://bonjin.co.kr:9090){:target="_blank"}
+* [Idol](http://bonjin.co.kr:9091){:target="_blank"} admin/1234
+* [Geniuschoi](http://bonjin.co.kr/portfolio/geniuschoi){:target="_blank"}
+* [Cartonization](http://bonjin.co.kr/bonjin/cartoonization){:target="_blank"}
+
 ### - Infra
 * CI/CD , Jenkins, Travis, Fastlane
 * AWS EC2, S3, RDS, CodeDeploy, AppCenter(CodePush)
