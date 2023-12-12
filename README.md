@@ -8,8 +8,8 @@
   DS923+로 이전중...
 
 ### - Side Project
-* <a href="https://bonjin.co.kr:9090" target="_blank">Portfolio</a>
-* <a href="https://bonjin.co.kr:9091" target="_blank">Idol</a> admin/1234
+* <a href="http://bonjin.co.kr:9090" target="_blank">Portfolio</a>
+* <a href="http://bonjin.co.kr:9091" target="_blank">Idol</a> admin/1234
 * <a href="https://bonjin.co.kr/portfolio/geniuschoi" target="_blank">Geniuschoi</a>
 * <a href="http://bonjin.co.kr:9999" target="_blank">Cartonization</a>
 
