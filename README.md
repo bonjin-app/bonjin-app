@@ -5,7 +5,6 @@
 * https://github.com/bonjin-app
 * https://bonjin.co.kr (정비중)
 * ### 하드 고장으로 서버 복구중 (DB서버 복구중) ###
-  DS923+로 이전중...
 
 ### - Side Project
 * <a href="http://bonjin.co.kr" target="_blank">Portfolio</a>
@@ -17,19 +16,16 @@
 * CI/CD , Jenkins, Travis, Fastlane
 * AWS EC2, S3, RDS, CodeDeploy, AppCenter(CodePush)
 * Naver Cloud, Google Cloud, Firebase, AppsFlyer
-* MSA, Docker, Spring Cloud, MultiModules
-* Jira sofrware, Confluence, Notion, Flow
+* Docker
+* Notion
 * Slack, Zeplin, Figma
 * ELK(Elasticsearch Logstash Kibana) Stack, Metricbeat, Beat
-* Auth, Monitor, Management
 
 ### - Todo
 * 알고리즘&코딩테스트 [프로그래머스](https://programmers.co.kr/), [Goormlabel](https://level.goorm.io), 나동빈 유튜브
-* Stomp, Socket, WebRTC
-* Git, GitHub, GitLab, GitFlow, GitAction, Pages
+* Stomp, WebSocket, Socket.io, WebRTC
+* Git, GitHub, GitLab & CI, GitAction, Pages
 * Algorithm
-* BottomSheet, Dialog, Accessory View, Navigation v6, Modal, Loading, Hook, State, Redux, RTK, Context API
-* Flutter Web, Mobile, Window, Mac, Linux, ChatBot, GetX, RxDart, BLOC, Provider, Riverpod
 
 ### - 스타트업
 * Infra
@@ -38,10 +34,3 @@ Jenkins, Docker, Fastlane, Firebase, ELK Stack
 Flutter or React, HTML Editor, Notification
 * Server
 Spring Framework, Stomp, RESTful API
-
-AppClient - Flutter 3.10, Riverpod 2.x, GoRouter 6.x, Dio, Stomp Client RxDart, Firebase
-AppServer - SpringBoot
-Backoffice - React, SpringBoot 
-LandingPage - html, css, javascript
-
-GiftLabsBiz - React, React Router, Recoil, Axios, Lottie
