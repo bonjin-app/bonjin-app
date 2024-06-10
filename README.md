@@ -22,7 +22,7 @@
 * ELK(Elasticsearch Logstash Kibana) Stack, Metricbeat, Beat
 
 ### - Todo
-* 알고리즘&코딩테스트 [프로그래머스](https://programmers.co.kr/), [Goormlabel](https://level.goorm.io), 나동빈 유튜브
+* 알고리즘&코딩테스트 [프로그래머스](https://programmers.co.kr/), [Goorm lebel](https://level.goorm.io), 나동빈 유튜브
 * Stomp, WebSocket, Socket.io, WebRTC
 * Git, GitHub, GitLab & CI, GitAction, Pages
 * Algorithm
