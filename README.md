@@ -13,12 +13,12 @@
 * <a href="http://bonjin.co.kr:9999" target="_blank">Cartonization</a>
 
 ### - Infra
-* CI/CD , Jenkins, Travis, Fastlane
+* Github/Gitlab CI/CD , Jenkins pipelane, Travis, Fastlane
 * AWS EC2, S3, RDS, CodeDeploy, AppCenter(CodePush)
 * Naver Cloud, Google Cloud, Firebase, AppsFlyer
-* Docker
+* Docker, Docker compose, Portainer
 * Notion
-* Slack, Zeplin, Figma
+* Slack, Discord, Zeplin, Figma
 * ELK(Elasticsearch Logstash Kibana) Stack, Metricbeat, Beat
 
 ### - Todo
@@ -31,6 +31,6 @@
 * Infra
 Jenkins, Docker, Fastlane, Firebase, ELK Stack
 * Backoffice
-Flutter or React, HTML Editor, Notification
+Vite & React, Electron, HTML Editor, Notification
 * Server
-Spring Framework, Stomp, RESTful API
+Spring Framework, WebSocket, Stomp, RESTful API
