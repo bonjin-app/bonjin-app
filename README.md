@@ -24,7 +24,6 @@
 ### - Todo
 * 알고리즘&코딩테스트 [프로그래머스](https://programmers.co.kr/), [Goorm level](https://level.goorm.io), 나동빈 유튜브
 * Stomp, WebSocket, Socket.io, WebRTC
-* Git, GitHub, GitLab & CI, GitAction, Pages
 * Algorithm
 
 ### - 스타트업
@@ -33,4 +32,4 @@ Jenkins, Docker, Fastlane, Firebase, ELK Stack
 * Backoffice
 Vite & React, Electron, HTML Editor, Notification
 * Server
-Spring Framework, WebSocket, Stomp, RESTful API
+Spring Framework, WebSocket, Stomp, RESTful API, Redis
