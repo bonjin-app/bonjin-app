@@ -15,21 +15,11 @@
 ### - Infra
 * Github/Gitlab CI/CD , Jenkins pipelane, Travis, Fastlane
 * AWS EC2, S3, RDS, CodeDeploy, AppCenter(CodePush)
+* Cloudflare, Tunnel
 * Naver Cloud, Google Cloud, Firebase, AppsFlyer
 * Docker, Docker compose, Portainer
 * Notion
 * Slack, Discord, Zeplin, Figma
 * ELK(Elasticsearch Logstash Kibana) Stack, Metricbeat, Beat
+* Postgresql, MariaDB, Prisma, Drizzle, QueryDSL, Jooq
 
-### - Todo
-* 알고리즘&코딩테스트 [프로그래머스](https://programmers.co.kr/), [Goorm level](https://level.goorm.io), 나동빈 유튜브
-* Stomp, WebSocket, Socket.io, WebRTC
-* Algorithm
-
-### - 스타트업
-* Infra
-Jenkins, Docker, Fastlane, Firebase, ELK Stack
-* Backoffice
-Vite & React, Electron, HTML Editor, Notification
-* Server
-Spring Framework, WebSocket, Stomp, RESTful API, Redis
