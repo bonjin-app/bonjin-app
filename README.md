@@ -3,8 +3,7 @@
 ### - Channel
 * https://gigas-blog.tistory.com
 * https://github.com/bonjin-app
-* https://bonjin.co.kr (정비중)
-* ### 하드 고장으로 서버 복구중 (DB서버 복구중.. 복구불가능..비트코인 없다 이놈아) ###
+* https://uulab.co.kr
 
 ### - Side Project
 * <a href="http://bonjin.co.kr" target="_blank">Portfolio</a>
