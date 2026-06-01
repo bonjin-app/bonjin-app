@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea&color=100:764ba2&text=BONJIN%20Team&fontSize=70&fontColor=ffffff&height=200&section=header&reversal=false&textBg=false&animation=fadeIn&desc=Full-Stack%20Developer%20Team&descSize=20&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea&color=100:764ba2&text=GIGAS%20%7C%20BONJIN&fontSize=60&fontColor=ffffff&height=200&section=header&reversal=false&textBg=false&animation=fadeIn" />
 </div>
 
 <div align="center">
 
-### 💻 BONJIN - Full-Stack Developer Team
+### 🚀 GIGAS - Full-Stack Developer
 **다양한 플랫폼과 기술을 활용한 혁신적인 애플리케이션 개발**
+
+#### *Leading the BONJIN Team*
 
 [Blog](https://gigas-blog.tistory.com) • [GitHub](https://github.com/bonjin-app) • [Website](https://uulab.co.kr)
 
@@ -18,10 +20,18 @@
 
 ---
 
-## 🎯 About Us
+## 👋 About GIGAS
 
-**BONJIN**은 모바일부터 백엔드, 웹까지 다양한 기술 스택을 활용하여 혁신적인 애플리케이션을 개발하는 풀스택 개발팀입니다.  
-우리는 사용자 경험을 최우선으로 고려하며, 최신 기술 트렌드를 반영한 프로젝트들을 진행하고 있습니다.
+안녕하세요! **GIGAS**입니다.  
+
+저는 **BONJIN 팀**을 이끌며 모바일부터 백엔드, 웹까지 다양한 기술 스택을 활용하여 혁신적인 애플리케이션을 개발하고 있습니다.  
+사용자 경험을 최우선으로 고려하며, 최신 기술 트렌드를 반영한 프로젝트들을 진행하고 있습니다.
+
+### 🎯 Philosophy
+✨ **다양한 플랫폼 지원** - iOS, Android, Web, Desktop  
+⚡ **모던 기술 스택** - 최신 프레임워크와 도구 활용  
+🚀 **빠른 개발 속도** - 효율적인 개발 프로세스  
+🎯 **사용자 중심** - UX/UI를 최우선으로 고려  
 
 ---
 
@@ -72,7 +82,7 @@
 
 ## 📂 Projects
 
-BONJIN의 다양한 프로젝트들을 확인하세요:
+GIGAS가 이끄는 BONJIN 팀의 다양한 프로젝트들을 확인하세요:
 
 - **Mobile Apps**: Flutter, Swift, Kotlin을 이용한 iOS, Android 애플리케이션
 - **Web Applications**: React, TypeScript, Vite를 활용한 모던 웹 개발
@@ -92,14 +102,14 @@ BONJIN의 다양한 프로젝트들을 확인하세요:
 
 ---
 
-## 🔗 Connect With Us
+## 🔗 Connect With GIGAS
 
 <div align="center">
 
 | 채널 | 링크 |
 |------|------|
 | 📝 **Blog** | [GIGAS Blog](https://gigas-blog.tistory.com) |
-| 💻 **GitHub** | [bonjin-app](https://github.com/bonjin-app) |
+| 💻 **GitHub** | [GIGAS @ bonjin-app](https://github.com/bonjin-app) |
 | 🌐 **Website** | [UULAB](https://uulab.co.kr) |
 
 </div>
