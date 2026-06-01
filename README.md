@@ -110,7 +110,7 @@ GIGAS가 이끄는 BONJIN 팀의 다양한 프로젝트들을 확인하세요:
 |------|------|
 | 📝 **Blog** | [GIGAS Blog](https://gigas-blog.tistory.com) |
 | 💻 **GitHub** | [GIGAS @ bonjin-app](https://github.com/bonjin-app) |
-| 🌐 **Website** | [UULAB](https://uulab.co.kr) |
+| 🌐 **Website** | [UULab](https://uulab.co.kr) |
 
 </div>
 
