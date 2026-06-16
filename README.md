@@ -55,11 +55,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
 
 ### ⚙️ Backend & Server
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -72,10 +72,23 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
 
+### 🚀 Infrastructure & DevOps
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EB7B59?style=flat-square&logo=argo&logoColor=white)
+![Nexus](https://img.shields.io/badge/Nexus-4CAF50?style=flat-square&logo=sonatype&logoColor=white)
+![LGTM](https://img.shields.io/badge/LGTM-2E5090?style=flat-square&logo=sonarqube&logoColor=white)
+
+### 📨 Message Queue & Streaming
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apache-kafka&logoColor=white)
+
 ### 🛠️ Development Tools & Others
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
@@ -86,7 +99,7 @@ GIGAS가 이끄는 BONJIN 팀의 다양한 프로젝트들을 확인하세요:
 
 - **Mobile Apps**: Flutter, Swift, Kotlin을 이용한 iOS, Android 애플리케이션
 - **Web Applications**: React, TypeScript, Vite를 활용한 모던 웹 개발
-- **Backend Services**: Node.js, Java, Python을 이용한 강력한 서버 구축
+- **Backend Services**: Node.js, Java, Kotlin, Python을 이용한 강력한 서버 구축
 - **Learning Resources**: Swift 한글 강의 및 기술 문서 모음
 
 더 많은 프로젝트는 [GitHub Organization](https://github.com/bonjin-app)에서 확인할 수 있습니다.
